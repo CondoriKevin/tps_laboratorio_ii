@@ -1,0 +1,1 @@
+Maquina:Cortadora;Tela:Nacional;Cliente:Lucas;Cantidad:333;Calidad Tela:Excelente;

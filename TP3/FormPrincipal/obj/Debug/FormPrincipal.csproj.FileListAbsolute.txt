@@ -1,0 +1,45 @@
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.FrmPrincipal.resources
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\bin\Debug\Serializable.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\FormPrincipal\bin\Debug\Serializable.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\bin\Debug\Serializable.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\bin\Debug\Serializable.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.FrmPrincipal.resources
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\FormPrincipal\obj\Debug\FormPrincipal.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\bin\Debug\FormPrincipal.exe.config
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\bin\Debug\FormPrincipal.exe
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\bin\Debug\FormPrincipal.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\bin\Debug\Serializable.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\bin\Debug\Serializable.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.FrmPrincipal.resources
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.Properties.Resources.resources
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.csproj.CopyComplete
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.exe
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\FormPrincipal\obj\Debug\FormPrincipal.pdb

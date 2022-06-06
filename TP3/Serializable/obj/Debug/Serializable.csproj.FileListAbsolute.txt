@@ -1,0 +1,12 @@
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Serializable\bin\Debug\Serializable.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Serializable\bin\Debug\Serializable.pdb
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Serializable\obj\Debug\Serializable.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Serializable\obj\Debug\Serializable.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Serializable\obj\Debug\Serializable.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Serializable\obj\Debug\Serializable.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Serializable\bin\Debug\Serializable.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Serializable\bin\Debug\Serializable.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Serializable\obj\Debug\Serializable.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Serializable\obj\Debug\Serializable.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Serializable\obj\Debug\Serializable.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Serializable\obj\Debug\Serializable.pdb

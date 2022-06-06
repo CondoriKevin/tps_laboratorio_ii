@@ -1,0 +1,1 @@
+Maquina:Estampado;Tela:Importada;Cliente:Javier;Cantidad:222;Calidad Tela:Malo;

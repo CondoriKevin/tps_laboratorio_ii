@@ -1,0 +1,18 @@
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\Entidades\obj\Debug\Entidades.pdb

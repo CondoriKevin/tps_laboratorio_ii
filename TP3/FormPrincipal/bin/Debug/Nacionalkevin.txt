@@ -1,0 +1,1 @@
+Maquina:Recta;Tela:Nacional;Cliente:kevin;Cantidad:345;Calidad Tela:Bueno;

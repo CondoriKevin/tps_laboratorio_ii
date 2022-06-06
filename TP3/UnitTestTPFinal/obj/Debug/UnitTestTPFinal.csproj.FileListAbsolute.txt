@@ -1,0 +1,48 @@
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\UnitTestTPFinal.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\UnitTestTPFinal.pdb
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Entidades.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.CopyComplete
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.dll
+C:\Users\Nico\Desktop\tp_laboratorio_2\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\UnitTestTPFinal.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\UnitTestTPFinal.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.CopyComplete
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.dll
+C:\Users\kevin\Desktop\TP3 Y TP4 eliminar 4\tp_laboratorio_2-main\TP3_FABRICACION\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\UnitTestTPFinal.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\UnitTestTPFinal.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Entidades.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Entidades.pdb
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.csproj.CopyComplete
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.dll
+C:\Users\kevin\Desktop\RECUPERATORIOS TP\TP3\UnitTestTPFinal\obj\Debug\UnitTestTPFinal.pdb
