@@ -1,0 +1,1 @@
+Maquina:Over;Tela:Importada;Cliente:Jose;Cantidad:321;Calidad Tela:Excelente;

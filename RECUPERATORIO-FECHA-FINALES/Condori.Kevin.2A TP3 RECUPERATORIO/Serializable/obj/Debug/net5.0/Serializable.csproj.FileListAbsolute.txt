@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\bin\Debug\net5.0\Serializable.deps.json
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\bin\Debug\net5.0\Serializable.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\bin\Debug\net5.0\ref\Serializable.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\bin\Debug\net5.0\Serializable.pdb
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\Serializable.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\Serializable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\Serializable.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\Serializable.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\Serializable.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\Serializable.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\ref\Serializable.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Serializable\obj\Debug\net5.0\Serializable.pdb

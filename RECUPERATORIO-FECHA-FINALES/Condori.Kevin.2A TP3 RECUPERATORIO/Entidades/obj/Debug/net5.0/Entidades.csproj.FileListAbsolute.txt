@@ -1,0 +1,24 @@
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\Entidades\obj\Debug\net5.0\Entidades.pdb
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\bin\Debug\net5.0\Entidades.deps.json
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\bin\Debug\net5.0\Entidades.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\bin\Debug\net5.0\Entidades.pdb
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\Entidades.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\Entidades\obj\Debug\net5.0\Entidades.pdb

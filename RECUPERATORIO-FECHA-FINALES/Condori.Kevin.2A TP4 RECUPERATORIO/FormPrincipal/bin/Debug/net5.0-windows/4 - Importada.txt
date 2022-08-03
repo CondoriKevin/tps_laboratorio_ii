@@ -1,0 +1,1 @@
+Maquina:Recta;Tela:Importada;Cliente:Lucia;Cantidad:333;Calidad Tela:Malo;

@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\UnitTestTPFinal\\UnitTestTPFinal.csproj": {}
+  },
+  "projects": {
+    "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\FormPrincipal\\FormPrincipal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\FormPrincipal\\FormPrincipal.csproj",
+        "projectName": "FormPrincipal",
+        "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\FormPrincipal\\FormPrincipal.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\FormPrincipal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\Entidades.csproj"
+              },
+              "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\Serializable.csproj": {
+                "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\Serializable.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\Serializable.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\Serializable.csproj",
+        "projectName": "Serializable",
+        "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\Serializable.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\UnitTestTPFinal\\UnitTestTPFinal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\UnitTestTPFinal\\UnitTestTPFinal.csproj",
+        "projectName": "UnitTestTPFinal",
+        "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\UnitTestTPFinal\\UnitTestTPFinal.csproj",
+        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
+        "outputPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\UnitTestTPFinal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Entidades\\Entidades.csproj"
+              },
+              "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\FormPrincipal\\FormPrincipal.csproj": {
+                "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\FormPrincipal\\FormPrincipal.csproj"
+              },
+              "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\Serializable.csproj": {
+                "projectPath": "D:\\RECUPERATORIO DE TP 2022\\Condori.Kevin.2A TP3\\Serializable\\Serializable.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

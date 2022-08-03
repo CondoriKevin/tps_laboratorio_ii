@@ -1,0 +1,46 @@
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.exe
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.deps.json
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.json
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\ref\FormPrincipal.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.pdb
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\ref\FormPrincipal.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.pdb
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\Serializable.dll
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\bin\Debug\net5.0-windows\Serializable.pdb
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormPrincipal.resources
+C:\Users\kevin\source\repos\Condori.Kevin.2A TP3 (RECUPERATORIO)\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CopyComplete
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.exe
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.deps.json
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.json
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.runtimeconfig.dev.json
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\ref\FormPrincipal.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\FormPrincipal.pdb
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\Entidades.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\Serializable.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\Entidades.pdb
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\bin\Debug\net5.0-windows\Serializable.pdb
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.AssemblyReference.cache
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.FormPrincipal.resources
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.GenerateResource.cache
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfoInputs.cache
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.AssemblyInfo.cs
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CoreCompileInputs.cache
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.csproj.CopyComplete
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\ref\FormPrincipal.dll
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.pdb
+D:\RECUPERATORIO DE TP 2022\Condori.Kevin.2A TP3\FormPrincipal\obj\Debug\net5.0-windows\FormPrincipal.genruntimeconfig.cache

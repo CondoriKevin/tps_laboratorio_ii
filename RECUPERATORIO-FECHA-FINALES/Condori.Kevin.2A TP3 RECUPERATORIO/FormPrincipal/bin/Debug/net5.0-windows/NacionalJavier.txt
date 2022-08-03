@@ -1,0 +1,1 @@
+Maquina:AMano;Tela:Nacional;Cliente:Javier;Cantidad:1000;Calidad Tela:Excelente;

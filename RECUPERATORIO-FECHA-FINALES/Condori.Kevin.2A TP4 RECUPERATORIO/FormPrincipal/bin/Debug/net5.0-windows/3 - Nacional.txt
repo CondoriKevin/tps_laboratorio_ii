@@ -1,0 +1,1 @@
+Maquina:Bordadora;Tela:Nacional;Cliente:Kevin;Cantidad:200;Calidad Tela:Excelente;

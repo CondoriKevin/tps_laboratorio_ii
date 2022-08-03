@@ -1,0 +1,1 @@
+Maquina:Bordadora;Tela:Nacional;Cliente:Javier;Cantidad:100;Calidad Tela:Malo;
